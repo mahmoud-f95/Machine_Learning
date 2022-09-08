@@ -2,5 +2,5 @@
 
 https://www.kaggle.com/competitions/digit-recognizer
 
-#### The notebook was created on Google Colab and the neural network model were created using TensorFlow
+#### The notebook was created on Google Colab and the neural network model was built using TensorFlow
 #### The model scored > 92% accuracy
