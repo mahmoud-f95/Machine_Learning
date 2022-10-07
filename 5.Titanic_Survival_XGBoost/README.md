@@ -3,4 +3,4 @@
 
 https://www.kaggle.com/competitions/titanic/data?select=test.csv
 
-#### The notebook was created on Google Colab and the Logistic_Regression model scored > 76% accuracy
+#### The notebook was created on Google Colab 
