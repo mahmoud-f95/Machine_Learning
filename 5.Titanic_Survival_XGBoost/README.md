@@ -4,3 +4,4 @@
 https://www.kaggle.com/competitions/titanic/data?select=test.csv
 
 #### The notebook was created on Google Colab 
+#### The model scored > 0.77 accuracy
